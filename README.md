@@ -202,28 +202,23 @@ GET /api/certificates/<certificate_id>/download/
 
 _Add screenshot of POST `/api/jobs/` response here._
 
-```text
-<img width="1442" height="870" alt="Screenshot 2026-10-08 130200" src="https://github.com/user-attachments/assets/c22628ba-95b3-458f-8cb5-73aaa5f6e6a1" />
 
-```
+<img width="1442" height="870" alt="Screenshot 2026-10-08 130200" src="https://github.com/user-attachments/assets/c22628ba-95b3-458f-8cb5-73aaa5f6e6a1" />
 
 ### 2. Job Status
 
 _Add screenshot showing completed job and progress._
 
-```text
+
 <img width="1443" height="893" alt="Screenshot 2026-10-08 130211" src="https://github.com/user-attachments/assets/2b2e14f2-35cc-4503-bd12-e534c4aec811" />
 
-```
 
 ### 3. Generated Certificate
 
 _Add screenshot of the generated PDF certificate._
 
-```text
 <img width="1446" height="887" alt="Screenshot 2026-10-08 130226" src="https://github.com/user-attachments/assets/d6d8aaaa-70fa-46a6-9785-7d7c314be721" />
 
-```
 
 ## Key Design Choice
 
