@@ -77,8 +77,8 @@ Certificate_Generator/
 ### 1. Clone the project
 
 ```bash
-git clone <your-repository-url>
-cd Certificate_Generator
+git clone https://github.com/rishee10/Bulk-Certificate-Generator.git
+cd Bulk-Certificate_Generator
 ```
 
 ### 2. Create and activate virtual environment
@@ -155,14 +155,14 @@ Example:
     "event_name": "Python Workshop 2026",
     "recipients": [
         {
-            "name": "Rahul Sharma",
-            "email": "rahul@example.com",
+            "name": "Rishee Sharma",
+            "email": "rishee12@example.com",
             "course": "Python Development"
         },
         {
-            "name": "Priya Singh",
-            "email": "priya@example.com",
-            "course": "Python Development"
+            "name": "Alice",
+            "email": "alice1@example.com",
+            "course": "Java Development"
         }
     ]
 }
